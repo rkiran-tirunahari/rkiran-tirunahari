@@ -7,12 +7,13 @@
 
 **Technical Skills:**
 - Programming Languages     Java 17, JavaScript, and Python.
-- Java Technologies: 	      J2ee, Servlets, JDBC, Struts, Hibernate, Spring and Spring Boot.
-- UI Technologies: 			    HTML5, CSS, and MeterialUI.
-- JavaScript Frameworks     jQuery, Angular, ReactJS, RXJS, Node.js and Express.js.
-- Databases Technologies: 	Oracle 12c/10g, MySQL, SQL Server 2012, MongoDB, PostgreSQL 10, SQ and PL/SQL.
-- Cloud Technologies: 	    AWS – EC2, ECS, S3, RDS, CloudWatch, Route 53, Lambda and Application Load Balancer.
+- Java Technologies: 	      J2ee, JDBC, Hibernate, Spring and Spring Boot.
+- UI Technologies: 			    HTML5, CSS, and Meterial UI.
+- JavaScript Frameworks     Angular, React, RXJS, Node.js and Express.js.
+- Databases Technologies: 	Oracle, MySQL, MongoDB, PostgreSQL , SQ and PL/SQL.
+- Cloud Technologies: 	    AWS – EC2, ECS, S3, RDS, CloudWatch, Route 53, Lambda.
 - Messaging Technology:     Apache Kafka.
+- API:                      REST & GraphQl
 
 
 
