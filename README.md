@@ -1,23 +1,44 @@
-**About Me**
-- 👋 Hi, I’m @rkiran-tirunahari
-- 👀 I’m interested in solving problems using technology and creating difference in the society.
-- 🌱 I’m currently learning AI/ML related technologies.
-- 💞️ I’m looking to help founders and startup companies solving tech issues or building awsome products.
-- 📫 How to reach me ravikirannyc@gmail.com
+Here's a refined and professional version of your "About Me" and technical skills section. This version improves grammar, clarity, and formatting while preserving your tone and intent:
 
-**Technical Skills:**
-- Programming Languages     Java 17, JavaScript, and Python.
-- Java Technologies: 	      J2ee, JDBC, Hibernate, Spring and Spring Boot.
-- UI Technologies: 			    HTML5, CSS, and Meterial UI.
-- JavaScript Frameworks     Angular, React, RXJS, Node.js and Express.js.
-- Databases Technologies: 	Oracle, MySQL, MongoDB, PostgreSQL , SQ and PL/SQL.
-- Cloud Technologies: 	    AWS – EC2, ECS, S3, RDS, CloudWatch, Route 53, Lambda.
-- Messaging Technology:     Apache Kafka.
-- API:                      REST & GraphQl
+---
 
+## About Me
 
+👋 Hi, I’m **Ravi Kiran Tirunahari** (`@rkiran-tirunahari`)
+👀 I'm passionate about solving real-world problems using technology and making a meaningful impact on society.
+🌱 Currently exploring AI/ML technologies to broaden my skill set.
+💞️ I enjoy collaborating with founders and startup teams to resolve technical challenges and build awesome products.
+📫 Feel free to reach out: **[ravikirannyc@gmail.com](mailto:ravikirannyc@gmail.com)**
 
-<!---
-rkiran-tirunahari/rkiran-tirunahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Technical Skills
+
+**Programming Languages:**
+Java (up to Java 17), JavaScript, Python
+
+**Java Technologies:**
+J2EE, JDBC, Hibernate, Spring Framework, Spring Boot
+
+**UI Technologies:**
+HTML5, CSS3, Material UI
+
+**JavaScript Frameworks & Libraries:**
+React, Angular, RxJS, Node.js, Express.js
+
+**Databases:**
+Oracle, MySQL, PostgreSQL, MongoDB
+SQL & PL/SQL
+
+**Cloud Platforms & Services:**
+AWS – EC2, ECS, S3, RDS, CloudWatch, Route 53, Lambda
+
+**Messaging & Streaming:**
+Apache Kafka
+
+**API Design:**
+RESTful APIs, GraphQL
+
+---
+
+Would you like this turned into a resume, LinkedIn summary, GitHub profile README, or something else?
