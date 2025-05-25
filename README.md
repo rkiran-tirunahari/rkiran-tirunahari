@@ -1,8 +1,8 @@
 **About Me**
 - 👋 Hi, I’m @rkiran-tirunahari
 - 👀 I’m interested in solving problems using technology and creating difference in the society.
-- 🌱 I’m currently exploring different python libraries used for AI/ML.
-- 💞️ I’m looking to help founders and startup companies ,contributing technically.
+- 🌱 I’m currently learning AI/ML related technologies.
+- 💞️ I’m looking to help founders and startup companies solving tech issues or building awsome products.
 - 📫 How to reach me ravikirannyc@gmail.com
 
 **Technical Skills:**
