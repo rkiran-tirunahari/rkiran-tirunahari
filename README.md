@@ -1,6 +1,3 @@
-Here's a refined and professional version of your "About Me" and technical skills section. This version improves grammar, clarity, and formatting while preserving your tone and intent:
-
----
 
 ## About Me
 
@@ -39,6 +36,4 @@ Apache Kafka
 **API Design:**
 RESTful APIs, GraphQL
 
----
 
-Would you like this turned into a resume, LinkedIn summary, GitHub profile README, or something else?
