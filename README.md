@@ -21,7 +21,7 @@
   HTML5, CSS3, Material UI
 
 - **JavaScript Frameworks & Libraries:**
-  React, Angular, RxJS, Node.js, Express.js
+  React, Angular, RxJS, Node.js, Express.js and Next.js
 
 - **Databases:**
   Oracle, MySQL, PostgreSQL, MongoDB
